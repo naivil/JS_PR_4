@@ -1,0 +1,8 @@
+// Print numbers until a condition is met.
+
+i = 1;
+while (true) {
+  console.log(i);
+  if (i >= 5) break;
+  i++;
+}
